@@ -1,0 +1,1 @@
+scp yuanjx@47.97.11.140:/home/yuanjx/mqtt/tcp/*03-12.txt ./监视子节点最新动态/数据
